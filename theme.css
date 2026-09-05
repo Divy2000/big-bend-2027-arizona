@@ -1,0 +1,26 @@
+/* Arizona / J — dusk-road theme */
+:root{
+  --night:#07090f;
+  --navy:#0e1626;
+  --amber:#e9a53d;
+  --amber-glow:rgba(233,165,61,.35);
+  --sand:#d8b58a;
+  --moon:#c9d2de;
+  --ink:#f3eee5;
+  --ink-soft:#c7c1b6;
+  --muted:#8d8a83;
+  --line:rgba(243,238,229,.10);
+  --line-strong:rgba(243,238,229,.22);
+  --display:"Fraunces",Georgia,"Times New Roman",serif;
+  --display-weight:500;
+  --display-weight-sub:500;
+  --display-tracking:-0.015em;
+  --body:"Instrument Sans",system-ui,-apple-system,"Segoe UI",sans-serif;
+}
+h1,h2{font-variation-settings:"opsz" 144,"SOFT" 30}
+.hero{background:linear-gradient(180deg,#05070c 0%,#0b1220 55%,#22150c 100%)}
+/* road centre line animation */
+.road-dash{stroke-dasharray:14 22;animation:roll 1.6s linear infinite}
+@keyframes roll{to{stroke-dashoffset:-36}}
+@media (prefers-reduced-motion:reduce){.road-dash{animation:none}}
+.verdict-card .big{color:var(--amber)}
