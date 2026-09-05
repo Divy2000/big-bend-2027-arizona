@@ -24,3 +24,6 @@ h1,h2{font-variation-settings:"opsz" 144,"SOFT" 30}
 @keyframes roll{to{stroke-dashoffset:-36}}
 @media (prefers-reduced-motion:reduce){.road-dash{animation:none}}
 .verdict-card .big{color:var(--amber)}
+@media(min-width:48em) and (max-height:960px){
+  .hero .copy{padding-top:5rem}.seals{margin-bottom:1.2rem}.seals small{display:none}.hero .kicker{margin-bottom:.6rem}
+}
