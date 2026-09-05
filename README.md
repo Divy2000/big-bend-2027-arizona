@@ -1,8 +1,8 @@
 # Big Bend 2027 — Arizona edition
 
-A single-page trip site for J: a four-day, three-night Big Bend National Park camping and dark-sky road trip from Dallas on December 24–27, 2027 (Christmas weekend — a new moon, the darkest three nights of the year). Costs in USD, with the lowest-cost way to join from Phoenix.
+A single-page trip site for Shubham: a four-day, three-night Big Bend National Park camping and dark-sky road trip from Dallas on December 24–27, 2027 (Christmas weekend — a new moon, the darkest three nights of the year). Costs in USD, with the lowest-cost way to join from Phoenix.
 
-Companion site for the same trip, for our friend in Edmonton: `big-bend-2027-edmonton`.
+Companion site for the same trip, for Khush in Edmonton: `big-bend-2027-edmonton`.
 
 ## Stack
 
