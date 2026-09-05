@@ -18,7 +18,7 @@
   --body:"Instrument Sans",system-ui,-apple-system,"Segoe UI",sans-serif;
 }
 h1,h2{font-variation-settings:"opsz" 144,"SOFT" 30}
-.hero{background:linear-gradient(180deg,#05070c 0%,#0b1220 55%,#22150c 100%)}
+.hero{background:transparent}
 /* road centre line animation */
 .road-dash{stroke-dasharray:14 22;animation:roll 1.6s linear infinite}
 @keyframes roll{to{stroke-dashoffset:-36}}
